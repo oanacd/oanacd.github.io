@@ -8,3 +8,6 @@ Data analyst with a broad experience in data manipulation, data visualization an
 - Google Analytics Individual Qualification
 - Knowledge of machine learning techniques (market basket analysis, cluster analysis, decision trees)
 - Fluency in English and French
+
+Contact: 
+oanacd@gmail.com 
