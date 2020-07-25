@@ -8,7 +8,8 @@ tags:
   - update
 ---
 
-Analysis made for HEC courses: "Introduction à l'analytique d'affaires", "Modèles d'optimisation et de recherche opérationnelle", "Systèmes d'information en gestion".
+Analysis made in 2019 - 2020 for HEC courses : "Introduction à l'analytique d'affaires", "Modèles d'optimisation et de recherche opérationnelle", "Systèmes d'information en gestion".
+
 ## Dashboard using conditional formatting and segments
 <img src = "/assets/images/dashboard_sig.JPG">
 To see the image larger: right click on the photo -> open image in a new tab
