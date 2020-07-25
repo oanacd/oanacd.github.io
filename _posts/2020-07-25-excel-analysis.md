@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-Analysis made for HEC cours: "Introduction à l'analytique d'affaires"
+Analysis made for HEC courses: "Introduction à l'analytique d'affaires" and "Modèles d'optimisation et de recherche opérationnelle"
 
 ## Demand modelling
 <img src = "{{ site.url }}{{ site.baseurl }}/assets/images/demand_price.JPG">
