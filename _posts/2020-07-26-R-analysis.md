@@ -1,6 +1,6 @@
 ---
 title: "R Sentiment Analysis"
-date: 2020-07-26T12:34:30-04:00
+date: 2020-07-24T12:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,8 +8,7 @@ tags:
   - update
 ---
 Analysis made in 2020 for the HEC cours: "Logiciels statistiques pour la gestion", using R ggplot2.
-
-# Sentiment analysis in R on the Donald Trump's tweets.
+Sentiment analysis in R on the Donald Trump's tweets.
 
 ## Number of tweets per year and median of retweets
 <img src= "/assets/images/R_sentiment_analysis/number_tweets_retweets.JPG">
@@ -30,7 +29,7 @@ Code:
 ```
 
 ## Proportion of negative and positive tweets before and during presidency
-<img src=img/sentiment_proportion.JPG width = '80%'>
+<img src="/assets/images/R_sentiment_analysis/sentiment_proportion.JPG">
 
 Code: 
 ```javascript
@@ -43,7 +42,7 @@ ggplot(df3ans, aes(x=2, y = id_str, fill=sentiment)) +
        fill = "Sentiment")
 ```
 ## Perceptual map for 5 analysed entities
-<img src=img/positioning_map.JPG width = '80%'>
+<img src="/assets/images/R_sentiment_analysis/positioning_map.JPG">
 
 Code: 
 ```javascript
@@ -69,7 +68,7 @@ ggplot(percept, aes(x=id_str, y=score)) +
 ```
 
 ## Distribution of favorite tweets 
-<img src=img/favorite_tweets.JPG width = '80%'>
+<img src="/assets/images/R_sentiment_analysis/favorite_tweets.JPG">
 
 Code: 
 ```javascript
@@ -87,7 +86,7 @@ ggplot(q3df2017_2019,
 ```
 
 ## Number of tweets per weekday 
-<img src=img/weekdays.JPG width = '80%'>
+<img src="/assets/images/R_sentiment_analysis/weekdays.JPG">
 
 Code: 
 ```javascript
