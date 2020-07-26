@@ -9,8 +9,7 @@ tags:
 ---
 Analysis made in 2020 for the HEC cours: "Logiciels statistiques pour la gestion", using R ggplot2.
 
-# R_Sentiment_Analysis
-Sentiment analysis in R on the Donald Trump's tweets.
+# Sentiment analysis in R on the Donald Trump's tweets.
 
 ## Number of tweets per year and median of retweets
 <img src= "/assets/images/R_sentiment_analysis/number_tweets_retweets.JPG">
