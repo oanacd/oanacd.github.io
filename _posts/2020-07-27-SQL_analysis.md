@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 ---
-
+Analysis made in 2020 for the HEC cours: Logiciels statistiques pour la gestion.
 
 ## Create a new table with weather information
 
