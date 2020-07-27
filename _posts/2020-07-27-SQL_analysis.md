@@ -26,8 +26,7 @@ CREATE TABLE
 			MTL_meteo_quotidienne_2018 ;
  ```
  
- ## Create a new table with bike stations
-
+## Create a new table with bike stations
 Code: 
 ```javascript
 CREATE TABLE 
@@ -42,7 +41,6 @@ CREATE TABLE
 ```
 
 ## Count the number of days available per station
-
 Code: 
 ```javascript
 SELECT 
@@ -69,7 +67,6 @@ ORDER BY
 ```
 
 ## Total monthly rainfall and maximum level of snow
-
 Code: 
 ```javascript
 SELECT 
@@ -109,7 +106,6 @@ ORDER BY
 ```
 
 ## The number of days without bike traffic
-
 Code: 
 ```javascript
 SELECT 
@@ -126,7 +122,6 @@ ORDER BY
 ```
 
 ## The number of days with at least one station without traffic
-
 Code: 
 ```javascript
 
