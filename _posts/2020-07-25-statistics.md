@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 ---
-Analysis made in 2020 for the HEC cours: "Méthodes statistiques avancées", using SPSS.
+Analyses made in 2020 for the HEC cours: "Méthodes statistiques avancées", using SPSS.
 
 ## T-test for 2 independent samples
 <img src="/assets/images/test-t.JPG">
